@@ -1,0 +1,8 @@
+{
+  "name": "css-utils",
+  "version": "1.0.0",
+  "description": "Utility classes for CSS",
+  "main": "index.css",
+  "author": "",
+  "license": "ISC"
+}
