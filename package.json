@@ -1,8 +1,8 @@
 {
-  "name": "@daltontan/css-utils",
+  "name": "@daltontan/utils.css",
   "version": "1.0.0",
   "description": "Utility classes for CSS",
-  "repository": "https://github.com/AgentCosmic/css-utils",
+  "repository": "https://github.com/AgentCosmic/utils.css",
   "main": "index.css",
   "author": "Dalton Tan",
   "license": "ISC"
